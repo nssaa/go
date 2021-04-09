@@ -1,0 +1,57 @@
+@media only screen and (max-width: 980px) {
+  .head {
+    margin-top: 50px; }
+
+  .head .th1 {
+    font-size: 2.7em; }
+
+  .head .desc {
+    margin: 20px auto 50px auto;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: 100;
+    width: 90%; }
+
+  .target {
+    background-image: none;
+    min-height: 270px; }
+
+  .about {
+    background-image: none;
+    min-height: 270px; }
+
+  .services .title .desc {
+    width: 100%; }
+
+  .title .desc {
+    width: 100%; }
+
+  .director {
+    margin-bottom: 40px; }
+
+  .bottom, .bottom .telefons-area {
+    text-align: left; }
+
+  .bottom .bot-menu {
+    display: none; }
+
+  .price-table table, .content table {
+    font-size: 0.8em; }
+
+  .price-table table td, .content table td {
+    padding: 10px 5px; }
+
+  .item.content-left {
+    padding-left: 0px; }
+
+  .left-menu {
+    display: none; }
+
+  .target-left {
+    margin-bottom: 30px;
+    margin-top: -50px; } }
+@media only screen and (max-width: 600px) {
+  .mobileContacts {
+    display: block; } }
+
+/*# sourceMappingURL=mobile.css.map */
